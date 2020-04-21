@@ -1,3 +1,6 @@
+[![DOI](https://zenodo.org/badge/253724002.svg)](https://zenodo.org/badge/latestdoi/253724002)
+
+
 # A New Unified Method for Detecting Text from Marathon Runners and Sports Players in Video
 **Sauradip Nag** , Palaihnakhote Shivakumara , Umapada Pal , Tong Lu , Michael Blumenstein "A New Unified Method for Detecting Text from Marathon Runners and Sports Players in Video" , Accepted in **Pattern Recognition , Elsevier**
 
