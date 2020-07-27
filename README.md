@@ -14,3 +14,16 @@ Detecting text located on the torsos of marathon runners and sports players in v
 ## Qualitative Results
 
 ![Qualitative](https://github.com/sauradip/PR_scene_text/blob/master/imgs/Screenshot%202020-04-16%20at%2010.59.38%20PM.png)
+
+## Citation
+If you use this code for your research, please cite our papers.
+```
+@article{nag2020new,
+  title={A New Unified Method for Detecting Text from Marathon Runners and Sports Players in Video (PR-D-19-01078R2)},
+  author={Nag, Sauradip and Shivakumara, Palaiahnakote and Pal, Umapada and Lu, Tong and Blumenstein, Michael},
+  journal={Pattern Recognition},
+  pages={107476},
+  year={2020},
+  publisher={Elsevier}
+}
+```
